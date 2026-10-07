@@ -1,4 +1,4 @@
-# Project 4 — Прогнозирование отклика клиента на предложение банка
+# Bank Deposit Subscription Prediction
 
 ## Описание проекта
 
